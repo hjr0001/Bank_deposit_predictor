@@ -207,10 +207,6 @@ To run the interactive Dash dashboard:
 ```bash
 python app.py
 ```
-Open [http://127.0.0.1:8050/](http://127.0.0.1:8050/) in your web browser.
 
 ---
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for details.
