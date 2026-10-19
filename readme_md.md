@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange.svg)](https://xgboost.readthedocs.io/)
 [![Dash](https://img.shields.io/badge/Dashboard-Plotly%20Dash-blueviolet.svg)](https://dash.plotly.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 An end-to-end machine learning and operational intelligence system designed to optimize outbound call center campaigns for bank term deposit subscriptions. By prioritizing high-propensity leads and eliminating operational data leakage, the solution cuts outbound call volumes by over **90%** and maximizes net campaign profitability.
 
